@@ -1,0 +1,450 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+div img{
+    width: 100%;
+    border-radius: 20px;
+}
+.frist-secion{
+    width: 100%;
+    font-size: 30px;
+}
+.frist-secion .main-header{
+    width: 50%;
+    margin-left: 70px;
+    display: inline-block;
+}
+.main-header p{
+    color: gray;
+}
+.btu1{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    border: oldlace 1px solid;
+}
+.btu2{
+   width: 100px; 
+   height: 40px;
+   background-color: transparent;
+   border-radius: 5px;
+   border: gray 1px solid;
+}
+.frist-secion div{
+    width: 30%;
+   display: inline-block;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+.second-secion{
+    width: 100%;
+}
+.second-secion .secion-header
+{
+    width: 40%;
+    padding-left: 30%;
+    margin-top: 50px;
+}
+.secion-header h2 {
+    text-align: center;
+}
+.secion-header p {
+    text-align: center;
+}
+.allCards{
+    margin-top:50px ;
+    width: 100%;
+}
+.card1{
+    width: 32%;
+    background-color:hsl(219, 79%, 66%,0.6) ;
+    border-radius: 5px;
+    float: left;
+    border: 1px solid blue;
+}
+.card1 h3 {
+    text-align: center;
+}
+.card1 p {
+    text-align: center;
+}
+.card1 div{
+    margin-top: 30px;
+    margin-inline: 200px;
+    width: 10%;
+}
+.card2{
+    width: 32%;
+    background-color:hsl(120, 50%, 47% ,0.7) ;
+    border-radius: 5px;
+    float: left;
+    margin-inline:25px;
+    border: 1px solid green;
+}
+.card2 h3 {
+    text-align: center;
+}
+.card2 p {
+    text-align: center;
+}
+.card2 div{
+    width: 10%;
+    margin-top: 30px;
+    margin-inline: 200px;
+}
+.card3{
+    width: 32%;
+    background-color:hsl(300, 47%, 75%,0.5) ;
+    border-radius: 5px;
+    float: left;
+    border: 1px solid palevioletred;
+}
+.card3 h3 {
+    text-align: center;
+}
+.card3 p {
+    text-align: center;
+}
+.card3 div{
+    width: 10%;
+    margin-top: 30px;
+    margin-inline: 200px;
+}
+.clear{
+    clear: both;
+}
+.secion3{
+    width: 100%;
+    margin-top: 50px;
+}
+.secion3 div{
+    width: 40%;
+    margin-left: 10px;
+    float: left;
+}
+.concent-secion3{
+    float: left;
+    width: 60%;
+    padding-left: 40px;
+}
+.concent-secion3 .secion3-item1{
+    width: 60%;
+}
+.secion3-item1{
+    border-left:5px black solid  ;
+    height: 70px;
+}
+.secion3-item1 .i1{
+    width: 100%;
+}
+.i1{
+    margin-top:-20px ;
+}
+.i1 p{
+     color: gray;
+}
+.concent-secion3 .secion3-item2{
+    width: 60%;
+    margin-top: 10px;
+}
+.secion3-item2{
+     border-left:5px black solid;
+     height: 70px;
+}
+.secion3-item2 .i1{
+    width: 100%;
+}
+.secion3-item3 .i1{
+    width: 100%;
+}
+.concent-secion3 .secion3-item3{
+    width: 60%;
+}
+.secion3-item3{
+     border-left:5px black solid;
+     margin-top: 10px;
+      height: 70px;
+}
+.secion3-item3 .i1{
+    width: 100%;
+}
+.secion4{
+    width: 100%;
+    margin-top:500px;
+    padding-top: 30px;
+    text-align: center;
+    background-color:hsla(0, 0%, 100%, 0.626);
+}
+.secion4 p{
+    color: gray;
+}
+.card1-secion4{
+     width: 25%;
+    border-radius: 5px;
+    float: left;
+    border: 1px solid rgb(153, 153, 235);
+    background-color: hsl(219, 79%, 66%,0.2);
+    margin-left: 30px;
+}
+.card1-secion4 div{
+    width: 20%;
+    margin-left: 30px;
+    float: left;
+    margin-top: 20px;
+}
+.card1-secion4 div img{
+    border-radius: 50%;
+}
+.card1-secion4 .concent1-secion4{
+    width: 40%;
+}
+.concent1-secion4{
+    float: left;
+    margin-top: -10px;
+}
+.concent1-secion4 p{
+    margin-top:  -10px;
+}
+.card1-secion4 .p1{
+width: 70%;
+margin-left: -80px;
+margin-top: -20px;
+}
+.card2-secion4{
+     width: 25%;
+    background-color:hsla(120, 60%, 76%, 0.2) ;
+    border-radius: 5px;
+    float: left;
+     border: 1px solid rgb(163, 237, 191);
+     margin-inline: 150px;
+}
+.card2-secion4 div{
+    width: 20%;
+    margin-left: 30px;
+    float: left;
+    margin-top: 20px;
+}
+.card2-secion4 div img{
+    border-radius: 50%;
+}
+.card2-secion4 .concent1-secion4{
+    width: 40%;
+}
+.concent2-secion4{
+    float: left;
+    margin-top: -10px;
+}
+.concent2-secion4 p{
+    margin-top:  -10px;
+}
+.card2-secion4 .p1{
+width: 70%;
+margin-left: -80px;
+margin-top: -20px;
+}
+.card3-secion4{
+     width: 25%;
+    background-color:hsl(350, 31%, 84% ,0.2) ;
+    border-radius: 5px;
+    float: left;
+     border: 1px solid rgb(223, 162, 230);
+}
+.card3-secion4 div{
+    width: 20%;
+    margin-left: 30px;
+    float: left;
+    margin-top: 20px;
+}
+.card3-secion4 div img{
+    border-radius: 50%;
+}
+.card3-secion4 .concent1-secion4{
+    width: 40%;
+}
+.concent3-secion4{
+    float: left;
+    margin-top: -10px;
+}
+.concent3-secion4 p{
+    margin-top:  -10px;
+}
+.card3-secion4 .p1{
+width: 70%;
+margin-left: -80px;
+margin-top: -20px;
+}
+.secion5{
+    width: 90%;
+     background-color: hsl(219, 79%, 66%,0.1);
+     margin-inline: 5%;
+     margin-top: 50px;
+     border-radius: 10px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    padding-inline: 100px;
+    padding-block: 10px;
+    font-size: 20px;
+}
+ul li p{
+    margin-top: -15px;
+    margin-left: -20px;
+    color: gray;
+}
+.header-secion6{
+    width: 30%;
+    margin-inline: 450px;
+    text-align: center;
+    margin-top: 70px;
+}
+.secion6{
+    background-color: hsl(219, 79%, 66%,0.1);
+    margin-top: 30px;
+    margin-inline: 150px;
+    width: 70%;
+    padding-left: 100px;;
+    padding-block: 50px;
+    border-radius: 10px;
+}
+.fr-N ,.Las-N{
+    float: left;
+    width: 50%;
+}
+.E-mail,.P-hone,.type,.Goals{
+    padding-block: 15px;
+    
+}
+.Las-N{
+    margin-left: -70px;
+}
+#Frist,#Last{
+    width: 85%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+#Email,#Phone,#Membership{
+    width: 85%;
+    height:35px ;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+#Fitness{
+ width: 85%;
+ height: 75px;   
+ border-radius: 5px;
+ border: 1px solid gray;
+}
+.btu3{
+    width: 86%;
+    height:45px ;
+    background-color: black;
+    color: azure;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.secion6 p{
+    color: gray;
+    padding-left: 200px;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 430px;
+    margin-top: 70px;
+}
+.head-line-footer{
+    color: aliceblue;
+    width: 30%;
+    padding-top: 30px;
+    padding-left: 40px;
+    float: left;
+}
+.head-line-footer p{
+    color: #ffffff9e;
+}
+.head-line-footer ul{
+    list-style: none;
+    margin-left: -50px;
+}    
+.head-line-footer ul li{
+    padding: 15px;
+}
+.head-line-footer ul li a{
+    text-decoration: none;
+    color: #ffffff9e;
+    font-size: 15px;
+}
+.Quick-links{
+    width: 25%;
+    float: left;
+    color: aliceblue;
+    padding-top:30px ;
+    padding-left: 70px;
+}
+.Quick-links h3{
+    padding-left: 140px;
+}
+.Quick-links ul{
+    list-style: none;
+}
+.Quick-links ul li a{
+    text-decoration: none;
+    color: #ffffff9e;
+    font-size: 15px;
+}
+.Contact-Info{
+    width: 23%;
+    float: left;
+    color: aliceblue;
+    padding-top:30px ;
+    padding-left: 70px;
+}
+.Contact-Info h3{
+    padding-left: 140px;
+}
+.Contact-Info ul{
+    list-style: none;
+}
+.Contact-Info ul li{
+    text-decoration: none;
+    color: #ffffff9e;
+    padding: 0px;
+    font-size: 15px;
+    padding-left: 100px;
+}
+.Contact-Info ul li p{
+    padding-left: 20px;
+}
+.Contact-Info ul li h4{
+    color: aliceblue;
+}
+.footer hr{
+    width:90%;
+}
+.footer span{
+   color: gray;
+   padding-left: 70px;
+}
+.Service{
+    margin-left: 1000px;
+    margin-top: -40px;
+}
+.Service ul{
+    list-style: none;
+} 
+ .Service ul li{
+    font-size: 15px;
+    padding: 15px;
+}
+.Service ul li a{
+      color: gray;
+      text-decoration: none;
+
+} 
